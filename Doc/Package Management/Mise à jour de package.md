@@ -14,6 +14,8 @@ Dans le cas où nous nous trouvons dans un projet et que nous ne précisons pas 
 <br>
 #### Options
 
-[!badge variant="info" text="-e"] ou [!badge variant="info" text="--env"] pour spécifier l'environnement sur lequel mettre à jour les packages.
-[!badge variant="info" text="-d"] ou [!badge variant="info" text="--dryrun"] pour permettre de tester les mises à jour sur un environnement isolé.
-[!badge variant="info" text="-f"] ou [!badge variant="info" text="--full"] pour mettre à jour l'ensemble des packages d'un environnement.
+[!badge variant="info" text="-e"] ou [!badge variant="info" text="--env"] pour spécifier l'environnement sur lequel mettre à jour les packages.<br>
+[!badge variant="info" text="-d"] ou [!badge variant="info" text="--dryrun"] pour permettre de tester les mises à jour sur un environnement isolé.<br>
+[!badge variant="info" text="-f"] ou [!badge variant="info" text="--full"] pour mettre à jour l'ensemble des packages d'un environnement.<br>
+[!badge variant="info" text="--minor"] pour mettre à jour uniquement les versions mineur.<br>
+[!badge variant="info" text="--patch"] pour mettre à jour uniquement les versions patch.<br>

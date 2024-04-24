@@ -1,6 +1,6 @@
 ---
 icon: /assets/icons/version.svg
-order: 997
+order: 996
 ---
 Nexus propose un système de versioning simplifié pour rapidement prendre en compte une version de package.
 Par défaut, la commande sans argument affichera la version actuelle du projet.

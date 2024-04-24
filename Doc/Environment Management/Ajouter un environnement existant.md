@@ -1,6 +1,6 @@
 ---
 icon: /assets/icons/env-add.svg
-order: 997
+order: 996
 ---
 Il est possible d'assigner un environnement existant à un projet
 

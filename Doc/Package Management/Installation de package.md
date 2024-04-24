@@ -14,6 +14,7 @@ Dans le cas où nous nous trouvons dans un projet et que nous ne précisons pas 
 <br>
 #### Options
 
-[!badge variant="info" text="-f"] ou [!badge variant="info" text="--force"] pour forcer l'installation d'un package
-[!badge variant="info" text="-r"] ou [!badge variant="info" text="--requirements"] pour installer des packages depuis un fichier requirements
-[!badge variant="info" text="-e"] ou [!badge variant="info" text="--env"] pour spécifier l'environnement sur lequel installer les packages
+[!badge variant="info" text="-f"] ou [!badge variant="info" text="--force"] pour forcer l'installation d'un package<br>
+[!badge variant="info" text="-r"] ou [!badge variant="info" text="--requirements"] pour installer des packages depuis un fichier requirements<br>
+[!badge variant="info" text="-n"] ou [!badge variant="info" text="--nocheck"] pour installer les packages sans vérifier les conflits<br>
+[!badge variant="info" text="-e"] ou [!badge variant="info" text="--env"] pour spécifier l'environnement sur lequel installer les packages<br>

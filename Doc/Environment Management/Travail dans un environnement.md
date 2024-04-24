@@ -1,6 +1,6 @@
 ---
 icon: /assets/icons/env-work.svg
-order: 992
+order: 991
 ---
 Il existe plusieurs solutions pour travailler dans un environnement virtuel, ouvrir un environnement, ouvrir le prompt Python ou encore exécuter une commande dans l'environnement.
 

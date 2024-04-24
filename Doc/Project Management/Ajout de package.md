@@ -1,6 +1,6 @@
 ---
 icon: /assets/icons/add_package.svg
-order: 996
+order: 995
 ---
 Pour gérer les dépendances d'un projet, vous pouvez utiliser la commande [!badge variant="info" text="add"] pour ajouter des dépendances au projet.
 

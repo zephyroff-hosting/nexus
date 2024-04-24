@@ -1,6 +1,6 @@
 ---
 icon: /assets/icons/remove_package.svg
-order: 995
+order: 994
 ---
 Pour gérer les dépendances d'un projet, vous pouvez utiliser la commande [!badge variant="info" text="remove"] pour supprimer des dépendances au projet.
 

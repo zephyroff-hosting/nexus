@@ -1,6 +1,6 @@
 ---
 icon: /assets/icons/verif.svg
-order: 994
+order: 993
 ---
 Nexus propose une solution de vérification du projet. Grâce à cela, plusieurs éléments seront vérifiés:
 - Analyse des dépendances du projet: Les dépendances présents dans la configuration du projet seront analysés pour garantir

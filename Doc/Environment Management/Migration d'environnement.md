@@ -1,6 +1,6 @@
 ---
 icon: /assets/icons/env-migrate.svg
-order: 995
+order: 994
 ---
 Il est possible de migrer un environnement virtuel du cache vers le projet ou inversement
 
