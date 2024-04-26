@@ -46,6 +46,7 @@ Il est également possible d'exécuter un fichier .py
 nxs run {FILE}
 ```
 <br><br>
+
 #### Options
 
 Par défaut, la commande utilisera l'environnement par défaut. Pour utiliser un environnement spécifique, il faudra utiliser l'argument [!badge variant="info" text="-e"] ou [!badge variant="info" text="--env"]

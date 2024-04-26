@@ -10,6 +10,7 @@ nxs restore {FILE}
 
 Par défaut, le fichier sera récupéré depuis le dernier commit et sera restauré à son emplacement d'origine.
 <br>
+
 #### Options
 
 [!badge variant="info" text="-d"] ou [!badge variant="info" text="--dest"] pour préciser l'emplacement de la restauration<br>

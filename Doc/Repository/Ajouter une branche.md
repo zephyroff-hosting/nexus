@@ -10,6 +10,7 @@ nxs branch --add {NAME_BRANCH}
 
 La branche sera alors créée mais ne passera pas en branche active.
 <br>
+
 #### Options
 
 [!badge variant="info" text="-S"] ou [!badge variant="info" text="--source"] pour définir la branche source. La nouvelle branche partira alors de cette branche<br>

@@ -20,6 +20,7 @@ Cette commande affichera:
 
 Dans ce cas où l'argument est un fichier de package, la commande retournera l'ensemble des métadonnées contenues dans le fichier. 
 <br>
+
 #### Options
 
 [!badge variant="info" text="--nodeps"] pour ne pas afficher l'arborescence des dépendances<br>

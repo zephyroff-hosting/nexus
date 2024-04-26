@@ -22,6 +22,7 @@ Le système va se baser sur un système d'analyse du code pour retrouver la list
 
 Une fois les informations renseignées, le projet sera initialisé et les différents composants tels que l'environnement virtuel et le repo seront créés en fonction des paramètres configurés.
 <br><br>
+
 #### Options
 
 La majorité de ces options se retrouve dans la configuration Nexus met propose d'être dissocié et donc d'être appliqué uniquement sur la création de ce projet.

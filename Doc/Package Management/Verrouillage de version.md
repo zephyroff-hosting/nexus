@@ -13,6 +13,7 @@ Pour définir les versions de lock, la commande se base sur les versions install
 
 Il est possible d'ajouter un paramètre le nom des package qui doivent être verrouillés. Dans le cas contraire, l'ensemble des dépendances du projet seront verrouillées.
 <br>
+
 #### Options
 
 [!badge variant="info" text="-e"] ou [!badge variant="info" text="--env"] permet de spécifier l'environnement utilisé

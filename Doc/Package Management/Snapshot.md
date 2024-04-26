@@ -10,6 +10,7 @@ nxs snap
 
 Par défaut, le snapshot sera stocké dans un fichier snap.json
 <br>
+
 #### Options
 
 [!badge variant="info" text="-e"] ou [!badge variant="info" text="--env"] pour spécifier l'environnement a utiliser

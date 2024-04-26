@@ -8,6 +8,7 @@ Nexus propose une solution pour publier ces packages sur le repo de notre choix 
 nxs publish
 ```
 <br><br>
+
 #### Options
 
 [!badge variant="info" text="--url"] permet de préciser l'url du repo cible

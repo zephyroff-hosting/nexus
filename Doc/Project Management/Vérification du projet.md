@@ -12,6 +12,7 @@ Nexus propose une solution de vérification du projet. Grâce à cela, plusieurs
 nxs check
 ```
 <br>
+
 #### Options
 
 [!badge variant="info" text="-e"] ou [!badge variant="info" text="--env"] permet de spécifier l'environnement utilisé

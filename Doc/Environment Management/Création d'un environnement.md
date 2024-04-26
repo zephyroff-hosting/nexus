@@ -12,6 +12,7 @@ Il faudra à minima préciser le nom de l'environnement
 
 Dans la [configuration Nexus](/Architecture/Configuration.md), il existe des paramètres qui sont utilisés pour définir le comportement lors de la création des environnements.
 <br><br>
+
 #### Options
 
 [!badge variant="info" text="-d"] ou [!badge variant="info" text="--default"] pour définir ce nouvel environnement comme l'environnement par défaut<br>

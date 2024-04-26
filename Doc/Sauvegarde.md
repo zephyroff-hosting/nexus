@@ -10,6 +10,7 @@ nxs backup
 
 La solution va alors récupérer le code du projet, les include_files, la licence, le readme, le changelog et l'ajouter dans une archive.
 <br>
+
 #### Options:
 [!badge variant="info" text="-q"] ou [!badge variant="info" text="--quality"] pour configurer la qualité de compression (entre 1 et 9)<br>
 [!badge variant="info" text="-o"] ou [!badge variant="info" text="--out"] pour définir le nom de l'archive<br>

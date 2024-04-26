@@ -10,6 +10,7 @@ nxs env --add {PATH}
 
 Il faudra à minima préciser le chemin vers l'environnement
 <br><br>
+
 #### Options
 
 [!badge variant="info" text="--name"] définie le nom de l'environnement<br>

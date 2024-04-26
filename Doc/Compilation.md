@@ -12,6 +12,7 @@ Les options de compilation sont à retrouver dans le fichier nexus.toml
 
 Avant la compilation, le système va contrôler la présence de toutes les dépendances et leur compatibilité.
 <br><br>
+
 #### Options
 
 [!badge variant="info" text="--install"] pour installer ou mettre à jour les dépendances manquantes<br>

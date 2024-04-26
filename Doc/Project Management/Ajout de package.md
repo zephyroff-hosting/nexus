@@ -10,6 +10,7 @@ nxs add {PACKAGE_NAME}
 
 Ces dépendances seront alors  ajoutés à la configuration du projet.
 <br>
+
 #### Options
 
 [!badge variant="info" text="--windows"] pour ajouter les dépendances uniquement pour Windows<br>

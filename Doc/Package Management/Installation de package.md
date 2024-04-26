@@ -12,6 +12,7 @@ Dans le cas où nous nous trouvons dans un projet, la commande tentera de trouve
 
 Dans le cas où nous nous trouvons dans un projet et que nous ne précisons pas de package, la commande va récupérer la liste des dépendances du projet et tenter de les installer.
 <br>
+
 #### Options
 
 [!badge variant="info" text="-f"] ou [!badge variant="info" text="--force"] pour forcer l'installation d'un package<br>

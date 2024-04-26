@@ -10,6 +10,7 @@ nxs remove {PACKAGE_NAME}
 
 Ces dépendances seront alors supprimées à la configuration du projet.
 <br>
+
 #### Options
 
 [!badge variant="info" text="--windows"] pour supprimer les dépendances uniquement pour Windows<br>

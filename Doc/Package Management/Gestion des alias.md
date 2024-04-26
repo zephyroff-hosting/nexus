@@ -15,6 +15,7 @@ Un fichier **.package_alias** sera alors créé à la racine du projet avec l'en
 L'appel de la commande sans argument affichera les alias actuellement configurés.
 
 <br>
+
 #### Options
 
 [!badge variant="info" text="-a"] ou [!badge variant="info" text="--add"] pour ajouter un alias avec le nom de l'alias et du package [!badge variant="dark" text="nxs alias --add \{IMPORT_NAME\} \{PACKAGE_NAME\}"]<br>

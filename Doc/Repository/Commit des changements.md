@@ -10,6 +10,7 @@ nxs commit
 
 Par défaut, un prompt demandera le message de commit et ajoutera les changements dans la branche active.
 <br>
+
 #### Options
 
 [!badge variant="info" text="-m"] ou [!badge variant="info" text="--message"] pour spécifier le message de commit <br>

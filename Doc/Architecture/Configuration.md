@@ -55,12 +55,14 @@ nxs config --reload
 Ces paramètres sont regroupés en catégories (general, virtualenvs, logs, project, publish, repo).
 Chacun agit sur un ou plusieurs composants.
 <br>
+
 #### <u>general</u>
 [!badge variant="info" text="cache-dir"] : Défini l'emplacement du répertoire de cache<br>
 [!badge variant="info" text="proxy"] : Configuration d'un proxy pour les commandes ayant besoin d'internet<br>
 [!badge variant="info" text="threading"] : Active l'utilisation de multi-thread pour les traitements<br>
 [!badge variant="info" text="threadmax"] : Défini le nombre maximum de thread parallèle<br>
 <br>
+
 #### <u>virtualenvs</u>
 
 Ces paramètres seront utilisés pour la création d'un environnement virtuel.
@@ -83,6 +85,7 @@ Ces paramètres seront utilisés pour définir le niveau de logs souhaité.
 [!badge variant="info" text="logs.date"] : Ajoute la date dans les logs<br>
 [!badge variant="info" text="logs.truecolor"] : Affiche les logs en version truecolor<br>
 <br>
+
 #### <u>project</u>
 Ces paramètres seront utilisés pour délimiter le comportement du projet.
 
@@ -96,6 +99,7 @@ Ces paramètres seront utilisés pour publier des packages sur un repo.
 [!badge variant="info" text="publish.url"] : URL du repo de package<br>
 [!badge variant="info" text="publish.username"] : Nom de l'utilisateur utilisé<br>
 <br>
+
 #### <u>metadata</u>
 Ces paramètres seront utilisés pour définir le comportement lors de la recherche de métadonnées sur un package.
 

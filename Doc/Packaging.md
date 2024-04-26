@@ -10,6 +10,7 @@ nxs pack
 
 Une fois la commande lancée, la système va réaliser un package et le placer dans le répertoire dist du projet.
 <br><br>
+
 #### Options
 
 [!badge variant="info" text="--windows"] pour créer un package pour Windows<br>

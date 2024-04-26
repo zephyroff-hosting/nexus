@@ -10,6 +10,7 @@ nxs reset {COMMIT_ID}
 
 Il existe alors 3 modes de reset
 <br>
+
 #### Options
 
 [!badge variant="info" text="--hard"] Toutes les modifications dans l'index intermédiaire et le répertoire de travail seront réinitialisées <br>
